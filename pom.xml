@@ -8,6 +8,7 @@
     <artifactId>jenkins</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <packaging>war</packaging>
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
