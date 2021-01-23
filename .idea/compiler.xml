@@ -6,14 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="jzw-server" />
-        <module name="jzw-client" />
+        <module name="jenkins" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="jzw-client" target="1.8" />
-      <module name="jzw-maven" target="1.8" />
-      <module name="jzw-server" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
